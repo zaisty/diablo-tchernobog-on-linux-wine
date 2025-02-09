@@ -1,4 +1,4 @@
-In this tutorial I show how to run Diablo 1 mod Tchernobog under Linux with wine setup.
+In this tutorial I show how to run Diablo mod Tchernobog under Linux with wine setup.
 =============================================
 
 You will need:
